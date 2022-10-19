@@ -1,10 +1,10 @@
-header {
-  background-color: firebrick;
+body {
+	background-color: rgb(46, 148, 148);
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 20px;
 }
 
-body {
-  font-size: 20px;
-}
-body div {
-  font-size: 10px;
+	div {
+		font-family: 'Times New Roman', Times, serif;
+ 		font-size: 25px;
 }
